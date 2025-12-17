@@ -1,0 +1,15 @@
+*/__pycache__/
+backend/__pycache__/
+*.py[cod]
+*.pyo
+*/.env/
+*/venv/
+*/.venv/
+*/.vscode/
+*/.idea/
+
+
+backend/data/
+**/neo4j/data/
+**/transactions/
+**/neostore.*
